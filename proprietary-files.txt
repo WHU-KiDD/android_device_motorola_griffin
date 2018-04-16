@@ -188,6 +188,11 @@ vendor/lib64/libGPreqcancel.so
 vendor/lib64/libGPreqcancel_svc.so
 vendor/lib64/libmm-hdcpmgr.so
 
+# DRM - Widevine
+vendor/bin/hw/android.hardware.drm@1.0-service.widevine
+vendor/etc/init/android.hardware.drm@1.0-service.widevine.rc
+vendor/lib/libwvhidl.so
+
 # Dropbox
 vendor/lib64/libadropbox.so
 
